@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity_Lion_FirstGame_3DEat",
+"productVersion": "0.1",
+"dataUrl": "web.data.unityweb",
+"wasmCodeUrl": "web.wasm.code.unityweb",
+"wasmFrameworkUrl": "web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
